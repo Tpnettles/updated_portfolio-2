@@ -1,0 +1,21 @@
+#body {
+    background-color: maroon;
+
+}
+
+.card-text{
+    font-size: 12px;
+    font-style: italic;
+}
+
+
+.card-body {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+#link {
+    padding-left: 30px;
+    padding-right: 30px;
+}
